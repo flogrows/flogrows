@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Flo.
+
+- 🌥 I’m currently working on my PhD, using self-supervised machine learning to study satellite images of clouds.
 
 <!--
 **flogrows/flogrows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
